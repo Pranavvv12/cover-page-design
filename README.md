@@ -101,4 +101,4 @@ footer{
 ![image](https://github.com/Pranavvv12/cover-page-design/assets/121292280/03a43e0b-2d6b-437e-b25e-2fe296f5a970)
 
 ## Result:
-Write your result
+Thus the program to develop a website to display the cover page design of a book is done.
